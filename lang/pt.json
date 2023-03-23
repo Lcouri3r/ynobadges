@@ -1986,103 +1986,103 @@
     "space_battleship": {
       "name": "Space Battleship Yume-to",
       "description": "Essa Galeria é de outro mundo!",
-      "condition": "Entre a Astronomical Gallery."
+      "condition": "Entre na Astronomical Gallery."
     },
     "cube_tsuki": {
-      "name": "Polygon Urotsuki",
-      "description": "It's Hip to be Square!",
-      "condition": "Obtain the Polygon Effect in the Warehouse"
+      "name": "Urotsuki Poligonal",
+      "description": "Cada um, no, seu quadrado, cada um no seu quadrado!",
+      "condition": "Obtenha o efeito Polygon na Warehouse"
     },
     "twintail_maid": {
       "name": "Twintail ni Narimasu",
-      "description": "Wanna be more lovable",
-      "condition": "Use the Twintail effect in the Dressing Room to wear a maid outfit"
+      "description": "Quer ser mais adorável",
+      "condition": "Utilize o efeito Twintail na Dressing Room para vestir uma roupa de empregada"
     },
     "capybara_opal": {
-      "name": "Healing",
-      "description": "Oh, to be a capybara just chilling...",
-      "condition": "Enter the room with the capybaras in the Opal Archives"
+      "name": "Curando",
+      "description": "Oh, ser uma capivara e ficar relaxando...",
+      "condition": "Entre no quarto com as capivaras nos Opal Archives"
     },
     "cheese_tactics": {
-      "name": "Cheese Tactics",
-      "description": "You thought there was gonna be some *cheesy* pun here, didn't you?",
-      "condition": "Use Cake/Fairy to get caught by one of the Cheese Spiders in Dark Cheese Hell"
+      "name": "Queijo Tétics",
+      "description": "Você acha que *che-dar* pra ser mais engraçado que isso?",
+      "condition": "Use o efeito Cake/Fairy para ser pego por uma das Cheese Spiders no Dark Cheese Hell"
     },
     "march_of_progress": {
-      "name": "Face of the Progress",
-      "description": "Reject humanity, return to monkey",
-      "condition": "Experience the March of Progress event"
+      "name": "A Face do Progresso",
+      "description": "Rrejeite a modernidade, retorne a macaco",
+      "condition": "Tenha a experiência de ver o evento do March of Progress"
     },
     "peaceful_pond": {
-      "name": "Peaceful Pond",
-      "condition": "Enter the pond version of the blue building in Grass World"
+      "name": "O Lago da Paz",
+      "condition": "Entre a versão da lagoa da construção azul em Grass World"
     },
     "clown_chaser": {
-      "name": "Clowning Around",
-      "description": "\"You are not a clown. You are the entire circus.\"",
-      "condition": "Make the group of Clown Chasers appear in the main area of The Circus"
+      "name": "Palhaçando por Aí",
+      "description": "\"Você não é só o palhaço. Você é o circo inteiro.\"",
+      "condition": "Faça o grupo de Clown Chasers aparecerem no The Circus"
     },
     "polycube_icy_garden": {
-      "name": "Icy Garden",
-      "description": "Wanna skate here?",
-      "condition": "Enter the bottom garden of the Wooden Polycube Ruins"
+      "name": "Jardim Geado",
+      "description": "Quer patinar por aqui?",
+      "condition": "Entre no jardim inferior das Wooden Polycube Ruins"
     },
     "ninja_town": {
-      "name": "Fake Ninja",
-      "description": "Scare me! Use ninjutsu!",
-      "condition": "After interacting with the unique stoplight with white lights, return to the ninja circle sub-area to witness their death"
+      "name": "Ninja Falso",
+      "description": "Me assuste! Use o ninjutsu!",
+      "condition": "Depois de interagir com o semáforo com as luzes brancas, retorne ao circulo ninja para presenciar suas mortes"
     },
     "claus_tsuki": {
-      "name": "Urotsuki Claus",
-      "description": "Merry Christmas!",
-      "condition": "Go to the Stickman House in the Christmas World"
+      "name": "Urotsuki Noel",
+      "description": "Feliz Natal!",
+      "condition": "Vá para a Stickman House no Christmas World"
     },
     "pancake_girl": {
-      "name": "No Dessert!",
-      "condition": "Make the girl in Pancake World do a mean gaze"
+      "name": "Sem Sobremesas!",
+      "condition": "Faça a garota no Pancake World mudar a sua expressão facial"
     },
     "blood_monster": {
-      "name": "Blood Monster",
-      "description": "The scrunkly!",
-      "condition": "Visit the creature in Blood Chamber"
+      "name": "Monstro do Sangue",
+      "description": "Que tico tico!",
+      "condition": "Visite a criatura na Blood Chamber"
     },
     "ether_cube": {
-      "name": "Ether Cube",
-      "description": "Not an orb, but something to ponder nonetheless.",
-      "condition": "Enter Ether Caverns"
+      "name": "Cubo de Éter",
+      "description": "Não é uma esfera, no entando, algo para ponderar.",
+      "condition": "Entre nas Ether Caverns"
     },
     "snowy_village_dancers": {
-      "name": "Dance No More!",
-      "description": "This show mustn't go on!",
-      "condition": "Equip the Marginal effect and go see the dancers in Snowy Village"
+      "name": "Não Dance Mais!",
+      "description": "Esse show não pode continuar!",
+      "condition": "Equipe o efeito Marginal e vá ver os dançarinos na Snowy Village"
     },
     "cure_curse": {
-      "name": "Curse Healer",
-      "condition": "Equip the Marginal effect and let Kankoshi heal you"
+      "name": "Curandeira",
+      "condition": "Equipe o efeito Marginal e deixe que Kankoshi te cure"
     },
     "delete_urotsuki": {
-      "name": "Delete Myself",
-      "description": "Welcome to my brain!",
-      "condition": "Face the consequences of your actions in the Head World"
+      "name": "Me Delete",
+      "description": "Bem vindos ao meu cérebro!",
+      "condition": "Fique cara a cara com as consequências de suas ações no Head World"
     },
     "hiboushi": {
-      "name": "Lamppost Girl",
-      "description": "Only one pole in the way",
-      "condition": "Interact with Hiboushi in Apartments"
+      "name": "Garota Poste",
+      "description": "Apenas mais um poste no caminho",
+      "condition": "Interaja com Hiboushi nos Apartments"
     },
     "ripple_passage": {
-      "name": "Ripple Amulet",
-      "description": "Didn't know you got drip like that...",
-      "condition": "Enter Ripple Passage in Static Noise Hell"
+      "name": "O Amuleto da Ondulação",
+      "description": "Não sabia que você possui o drip...",
+      "condition": "Entre a Ripple Passage no Static Noise Hell"
     },
     "ghostly_exhibit": {
-      "name": "Photosynthesis",
-      "condition": "Visit the Ghostly Exhibit"
+      "name": "Fotossíntese",
+      "condition": "Visite a Ghostly Exhibit"
     },
     "witch_duo": {
-      "name": "Twin-Colored Duo",
-      "description": "Two is better than one!",
-      "condition": "Visit the Witch's House in Love Lodge, the place where the frozen Witch of Charity is, and find the painting in Hatred Palace"
+      "name": "Coloridas e Gêmeas",
+      "description": "Dois é melhor que um!",
+      "condition": "Visite a Witch's House no Love Lodge, o lugar que a Witch of Charity está, e encontre a pintura no Hatred Palace"
     }
   },
   "flow": {
